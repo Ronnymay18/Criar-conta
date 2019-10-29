@@ -59,4 +59,12 @@ body{
     margin: 12px 0;
     border-radius: 15px;
 
+
+}
+.btn {
+    background-color: transparent;
+    transition: background-color .5s;
+}
+.btn:hover {
+    background-color: #fff;
 }
